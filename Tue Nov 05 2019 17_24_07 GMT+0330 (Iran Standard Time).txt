@@ -1,8 +1,0 @@
-bot: Hi! I am going to ask your specification. Please enter your fleet name.,
-,user: test,
-,bot: please enter your name.,
-,user: Parina,
-,bot: please enter your number.,
-,user: 8,
-,bot: please enter your truck id.,
-,user: 9,
